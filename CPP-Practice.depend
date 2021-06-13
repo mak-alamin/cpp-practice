@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1623612747 source:/var/www/C++/CPP-Practice/functions.cpp
+	<iostream>
+
+1623612978 source:/var/www/C++/CPP-Practice/main.cpp
+	<iostream>
+	"functions.h"
+
+1623612864 /var/www/C++/CPP-Practice/functions.h
+
